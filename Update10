@@ -1,0 +1,59 @@
+<html lang="en"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ILIYA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #478a5297;
+      margin: 0;
+      padding: 50px;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    .box {
+      background-color: rgb(207, 255, 50);
+      color: rgb(137, 74, 137);
+      padding: 15px;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #763b3b;
+      border-radius: 8px;
+    }
+    .box p {
+      margin: 5px 0;
+    }
+    @media (max-width: 480px) {
+      .container {
+        width: 90%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="box">
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores beatae unde voluptatibus omnis eos nisi, sit, deserunt neque, fugit in porro cupiditate similique esse nostrum at expedita dolores nemo optio.</p>
+      
+    </div>
+
+    <div class="box">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quia recusandae excepturi unde voluptates vitae harum quaerat ab perspiciatis atque voluptas, quam non consequuntur facilis! Ex unde adipisci voluptate quam.</p>
+    
+    </div>
+
+    <div class="box">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt labore mollitia illo voluptates, eius aperiam id odit facere, nam eveniet laudantium voluptatum laborum et cumque voluptate est iusto, nisi animi!</p>
+    
+    </div>
+    <div class="box">
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquam, eveniet recusandae maiores nobis dignissimos voluptatibus fugiat eligendi sequi optio est laborum cumque ab ducimus inventore ratione doloremque quos necessitatibus beatae.</p>
+     
+    </div>
+    
+</p></div></div></body></html>
