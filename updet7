@@ -1,0 +1,41 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ILIYA</title>
+    <style>
+        body{
+            background-color:rgb(227, 236, 245);
+        }
+        
+        .container
+        {
+            width:1600px ;
+            height: 50vh;
+            margin: 0 auto;
+            background-color: rgb(6, 213, 20);
+        }
+        h3{
+            color: rgb(11, 11, 11);
+        }
+        p{
+            color: rgb(3, 3, 3);
+        }
+        .box{
+            width: 900px;
+            height: 30vh;
+           
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+<h3>Iliya Arab Hosseini</h3>
+<p>Lorem ipsum dolor sit amet<mark>consectetur adipisicing</mark>  elit.<u> Perferendis</u> accusamus unde eveniet <small>tempora aliquam magni alias quae</small>  dolores dignissimos veniam explicabo maxime molestias consequatur cumque repellat, <sub>est iste</sub>?</p>
+        </div>
+
+    </div>
+    
+
+</body></html>
