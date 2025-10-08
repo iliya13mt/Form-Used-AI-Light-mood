@@ -1,0 +1,66 @@
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ILIYA</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: rgb(27, 38, 44);
+            font-family: 'Roboto', sans-serif; 
+        }
+
+        #main {
+            width: 80%;
+            height: 100vh;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center; 
+        }
+
+        .card {
+            width: 90%;
+            height: 30vh;
+            background-color: rgb(146, 56, 56);
+            margin: 7px 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center; 
+            padding: 20px;
+        }
+
+        .card p {
+            color: white;
+            font-size: 14px;
+            text-align: center; 
+        }
+
+        .card h4 {
+            color: white;
+            font-size: 20px;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div id="main">
+        <div class="card">
+            <h4ا>Wi-Fi</h4ا>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque architecto, quasi exercitationem dolores libero eveniet culpa quidem magni a dolorem voluptatum reprehenderit sequi itaque molestias? Maiores eligendi minima aliquam odio!zzzzz</p>
+        </div>
+        <div class="card">
+            </h3>Wi-Fi</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, vel laudantium! Vitae aspernatur natus, nemo totam porro voluptatem sit optio consequuntur eos eum numquam, quae dolores fugiat rerum quo aliquam.</p>
+        </div>
+    </div>
+</body>
+</html>
